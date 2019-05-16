@@ -1,0 +1,44 @@
+{
+	"jadwal": [
+		{
+			"tanggal1":8,
+			"bulan1":"JAN",
+			"tanggal2":13,
+			"bulan2":"FEB",
+			"keterangan":"Pendaftaran Pasangan Calon Gubernur dan Wakil Gubernur Jawa Barat 2018",
+			"link":"#"
+		},
+		{
+			"tanggal1":15,
+			"bulan1":"FEB",
+			"tanggal2":26,
+			"bulan2":"JUN",
+			"keterangan":"Kampanye & Debat Publik",
+			"link":"#"
+		},
+		{
+			"tanggal1":24,
+			"bulan1":"JUN",
+			"tanggal2":26,
+			"bulan2":"JUN",
+			"keterangan":"Masa Tenang & Pembersihan Alat Peraga",
+			"link":"#"
+		},
+		{
+			"tanggal1":27,
+			"bulan1":"JUN",
+			"tanggal2":"",
+			"bulan2":"",
+			"keterangan":"Pemungutan & Penghitungan Surat Suara di TPS",
+			"link":"#"
+		},
+		{
+			"tanggal1":28,
+			"bulan1":"JUN",
+			"tanggal2":9,
+			"bulan2":"JUL",
+			"keterangan":"Rekapitulasi Hasil Penghitungan Suara",
+			"link":"#"
+		}
+	]
+}
